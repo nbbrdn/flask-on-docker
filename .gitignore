@@ -18,3 +18,7 @@ services/web/project/media/*
 
 services/web/project/static/*
 !services/web/project/static/.gitkeep
+
+.env.dev
+.env.prod
+.env.prod.db
