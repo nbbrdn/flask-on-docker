@@ -13,8 +13,8 @@ env/
 
 .vscode/
 
-media/*
-!media/.gitkeep
+services/web/project/media/*
+!services/web/project/media/.gitkeep
 
-static/*
-!static/.gitkeep
+services/web/project/static/*
+!services/web/project/static/.gitkeep
