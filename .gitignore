@@ -12,3 +12,9 @@ __pycache__/
 env/
 
 .vscode/
+
+media/*
+!media/.gitkeep
+
+static/*
+!static/.gitkeep
